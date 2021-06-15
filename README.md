@@ -2,7 +2,7 @@
 Cheat made for Phasmophobia
 
 Basic function :
-- Ghost, Bone, Ouija Board and Fusebox ESP
+- Ghost, Bone, Ouija Board, EMF Interaction and Fusebox ESP
 - Ghost Activity Graph
 - Mission Information including ghost's name, age and etc...
 
