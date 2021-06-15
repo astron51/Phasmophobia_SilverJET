@@ -8,4 +8,4 @@ Basic function :
 
 
 Written in C++ using Scaffolding
-![SS](https://i.imgur.com/xY3yxBx.png)
+![SS](https://i.imgur.com/1Lcfouu.png)
