@@ -7,5 +7,5 @@ Basic function :
 - Mission Information including ghost's name, age and etc...
 
 
-Written in C++ using Scaffolding
+Written in C++ with sturcture generated using ReClass.NET
 ![SS](https://i.imgur.com/1Lcfouu.png)
