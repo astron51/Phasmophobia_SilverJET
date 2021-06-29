@@ -7,6 +7,7 @@ Basic function :
 - Mission Information including ghost's name, age and etc...
 - Ghost Box
 - Phrase Recognizer
+- Adjustable Flashlight
 
 
 Written in C++ with sturcture generated using ReClass.NET
