@@ -5,6 +5,8 @@ Basic function :
 - Ghost, Bone, Ouija Board, EMF Interaction and Fusebox ESP
 - Ghost Activity Graph
 - Mission Information including ghost's name, age and etc...
+- Ghost Box
+- Phrase Recognizer
 
 
 Written in C++ with sturcture generated using ReClass.NET
