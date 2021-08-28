@@ -6,8 +6,8 @@ Basic function :
 - Ghost Activity Graph
 - Mission Information including ghost's name, age and etc...
 - Ghost Box
-- Phrase Recognizer
-- Adjustable Flashlight
+- ~~Phrase Recognizer~~
+- ~~Adjustable Flashlight~~
 
 
 Written in C++ with sturcture generated using ReClass.NET
