@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="framework\dllmain.cpp">
+      <Filter>Resources\Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="user\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RendererRJ.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="framework\loguru.cpp">
+      <Filter>Resources\Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="Common.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Cheats.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="user\Main.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RendererRJ.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="framework\D3D_VMT.h">
+      <Filter>Resources\Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="framework\loguru.hpp">
+      <Filter>Resources\Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MoonMan.h">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="Cheats.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Phasmophobia.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Crypt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="il2cpp-types.h">
+      <Filter>Resources\IL2CPP</Filter>
+    </ClInclude>
+    <ClInclude Include="il2cpp-api-functions.h">
+      <Filter>Resources\IL2CPP</Filter>
+    </ClInclude>
+    <ClInclude Include="il2cpp-helpers.h">
+      <Filter>Resources\IL2CPP</Filter>
+    </ClInclude>
+    <ClInclude Include="il2cpp-functions.h">
+      <Filter>Resources\IL2CPP</Filter>
+    </ClInclude>
+    <ClInclude Include="il2cpp_translations.h">
+      <Filter>Resources\IL2CPP</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{9190c5d9-dfef-42fc-9399-ebbf30099216}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{9bd38d57-d49f-4593-907d-cf7dec5ea459}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{8c4971d1-e993-410a-85f0-cdca13fd4e9b}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Resources\Framework">
+      <UniqueIdentifier>{923cf228-fc02-44e7-8c9f-9c09c66af3b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\IL2CPP">
+      <UniqueIdentifier>{87844a8f-fe9a-409d-b773-cdf05b0c22a4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+</Project>
